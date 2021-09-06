@@ -1,8 +1,7 @@
 # Code of Conduct
 
-The rules are straight forward.
+Hi, thanks for getting involved! The conduct rules are straight forward.. 
 
-* All Contributions are welcome, regardless of skill and experience level.
-* Your ethnicity, age, gender, sexuality and religion are irrelevent.
-* All feedback welcome. Constructive criticism is both valid and useful. However, toxic, malicious criticism is not tolerated.
-* We're all in this together to learn, improve and benefit from the quality software produced!
+* We consider your ethnicity, age, gender, sexuality and religion irrelevent. Mentality and ambition matters more.
+* All feedback welcome. Constructive criticism is both valid and useful. However, keep it respectful please.
+* This is a joint effort! We learn, improve and benefit together.
