@@ -31,5 +31,4 @@ Guidance when submitting work.
 * Planned work must fit the project's mandate and scope.
 * Planned work must benefit at least the majority of users.
   * Niche, edge-case features might be better suited in a plugin or extension.
-* If you're unsure, post a question in the repo discussions tab.
-
+* If you're unsure, post an issue or question in the repo discussions tab. Please don't be shy to ask.
