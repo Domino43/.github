@@ -10,7 +10,7 @@ A quickstart checklist for all projects.
 
 * Javascript only.
   * Typscript types are managed separately in [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped).
-* No compiling, transpiling or build system - just plain, native JS.
+* No compiling, transpiling or build system in the primary codebase - just plain, native JS.
 * Coding style: [StandardJS](https://standardjs.com/).
 * ECMAScript modules with a CommonJS distribution.
 * Support Node.js >= v12.17.
@@ -30,7 +30,7 @@ Guidance when submitting work.
   * Even if a PR is not approved it could still influence direction or highlight wider concerns.
 * Planned work must fit the project mandate.
 * Planned work must benefit at least the majority of users.
-  * Niche, edge-case features might be better suited in a plugin or extension.
+  * Niche, edge-case features might be better suited in a wrapper, plugin or extension.
 * Don't worry if your first PR takes a little longer to review and approve, second and third PRs will sail through.
 
 ## PR checklist
@@ -38,8 +38,8 @@ Guidance when submitting work.
 Checklist before submitting a PR. If you are unsure about any of these points don't be shy to ask before submitting.
 
 * You have conviction in the solution proposed
+* You have followed the guidance for submitting work
 * It is complete to the best of your knowledge
-* You believe it will sail through the PR review
 * You have added tests
   * 100% branch coverage preferred
   * All expected input/usage scenarios covered
